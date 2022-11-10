@@ -1,3 +1,4 @@
 ellipsis==3.0.1
 folium==0.13.0
 streamlit==1.10.0
+matplotlib==3.5.1
